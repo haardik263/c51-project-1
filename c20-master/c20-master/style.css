@@ -1,0 +1,31 @@
+.item{
+  display:flex;
+  background-image: linear-gradient(to right, pink, cyan, yellow);
+  justify-content: center;
+}
+.item1{
+  display:flex;
+  background-image: linear-gradient(to bottom,rgb(255,0,0,0.04), blue,green);
+  justify-content: center;
+}
+.item3{
+  display:flex;
+  background-image: linear-gradient(to right, orange, cyan, red);
+  justify-content: center;
+}
+
+.comp{
+  display:flex;
+  background-image: radial-gradient(pink,cyan,yellow);
+  justify-content: center;
+}
+.comp1{
+  display:flex;
+  background-image: linear-gradient(to right,green,orange,purple);
+  justify-content: center;
+}
+.comp2{
+  display:flex;
+  background-image: linear-gradient(to bottom,yellow,blue,orange);
+  justify-content: center;
+}
